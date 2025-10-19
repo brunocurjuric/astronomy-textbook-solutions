@@ -6,7 +6,7 @@ Hannu Karttunen, Pekka Kröger, Heikki Oja, Markku Poutanen, Karl Johan Donner
 ---
 
 | Chapter | Problems | Solutions | Solved |
-|---------|---------|----------|-------|
+|---------|:---------:|:----------:|:-------:|
 | 1 Introduction | 0 | - | - |
 | 2 Spherical Astronomy | 10 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%202.ipynb) | 10% |
 | 3 Observations and Instruments | 2 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%203.ipynb) | 0% |
@@ -25,7 +25,7 @@ Hannu Karttunen, Pekka Kröger, Heikki Oja, Markku Poutanen, Karl Johan Donner
 | 16 The Interstellar Medium | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2016.ipynb) | 0% |
 | 17 Star Clusters and Associations | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2017.ipynb) | 0% |
 | 18 The Milky Way | 4 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2018.ipynb) | 0% |
-| 19 Galaxies | 2 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2019.ipynb) | 0% |
+| 19 Galaxies | 2 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2019.ipynb) | 50% |
 | 20 Cosmology | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2020.ipynb) | 0% |
 | 21 Astrobiology | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2021.ipynb) | 0% |
 | 22 Exoplanets | 2 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2022.ipynb) | 0% |
