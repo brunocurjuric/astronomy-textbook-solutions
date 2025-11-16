@@ -2,10 +2,12 @@
 A collection of solutions to different textbooks related to astronomy, written in Python and presented as Jupyter notebooks.
 
 ## Curent Textbooks
-An Introduction to Modern Astrophysics, Cambridge University Press, 2017, 2nd edition - [solutions here](/Introduction_to_Modern_Astrophysics/) <br>
-Foundations of Astrophysics, Pearson Education 2010, 1st edition - [solutions here](/Foundations_of_Astrophysics/) <br> 
-Fundamental Astronomy, Springer 2017, 6th edition - [solutions here](/Fundamental_Astronomy/) <br>
 
+| Textbook | Publisher | Year | Edition | Problems | Solved | Solutions |
+|---------|---------|:----------:|:-------:|:-------:|:------:|:----:|
+| An Introduction to Modern Astrophysics | Cambridge University Press | 2017 | 2nd | | | [solutions here](/Introduction_to_Modern_Astrophysics/) |
+| Foundations of Astrophysics | Pearson Education | 2010 | 1st | | | [solutions here](/Foundations_of_Astrophysics/) |
+| Fundamental Astronomy | Springer | 2017 | 6th | | | [solutions here](/Fundamental_Astronomy/) |
 
 
 ## Planned textbooks
@@ -20,4 +22,5 @@ Introduction to Stellar Astrophysics: Volume 1, Basic Stellar Observations and D
 Introduction to Stellar Astrophysics: Volume 2, Stellar Atmospheres, Cambridge University Press, 1989 <br>
 Introduction to Stellar Astrophysics: Volume 3, Stellar Structure and Evolution, Cambridge University Press, 1992 <br>
 Life in the Universe, Princeton University Press, 2022, 5th edition <br>
+Pathways to Astronomy, McGraw-Hill, 2007, 2nd edition <br>
 The Cosmic Perspective, Pearson Education, 2016, 8th edition <br>
