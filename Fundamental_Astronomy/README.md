@@ -11,7 +11,7 @@ DOI: https://doi.org/10.1007/978-3-662-53045-0
 |---------|:---------:|:----------:|:-------:|
 | 1 Introduction | 0 | - | - |
 | 2 Spherical Astronomy | 10 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%202.ipynb) | 2/10 (20%) |
-| 3 Observations and Instruments | 2 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%203.ipynb) | 0/2 (0%) |
+| 3 Observations and Instruments | 2 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%203.ipynb) | 1/2 (50%) |
 | 4 Photometric Concepts and Magnitudes | 5 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%204.ipynb) | 1/5 (20%) |
 | 5 Radiation Mechanisms | 8 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%205.ipynb) | 0/8 (0%) |
 | 6 Celestial Mechanics | 7 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%206.ipynb) | 0/7 (0%) |
@@ -35,4 +35,4 @@ DOI: https://doi.org/10.1007/978-3-662-53045-0
 ---
 
 Problems (exercises) can be found at the end of each chapter, right after examples and just before the next chapter. <br>
-83 problems in total, 7 solved (8%).
+83 problems in total, 8 solved (9.6%).
