@@ -25,7 +25,7 @@ DOI: https://doi.org/10.1007/978-3-662-53045-0
 | 14 Variable Stars | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2014.ipynb) | 0/3 (0%) |
 | 15 Compact Stars | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2015.ipynb) | 0/3 (0%) |
 | 16 The Interstellar Medium | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2016.ipynb) | 0/3 (0%) |
-| 17 Star Clusters and Associations | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2017.ipynb) | 0/3 (0%) |
+| 17 Star Clusters and Associations | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2017.ipynb) | 1/3 (33%) |
 | 18 The Milky Way | 4 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2018.ipynb) | 0/4 (0%) |
 | 19 Galaxies | 2 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2019.ipynb) | 1/2 (50%) |
 | 20 Cosmology | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2020.ipynb) | 0/3 (0%) |
@@ -35,4 +35,4 @@ DOI: https://doi.org/10.1007/978-3-662-53045-0
 ---
 
 Problems (exercises) can be found at the end of each chapter, right after examples and just before the next chapter. <br>
-83 problems in total, 8 solved (9.6%).
+83 problems in total, 9 solved (10.8%).
