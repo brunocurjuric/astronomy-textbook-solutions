@@ -16,7 +16,7 @@ DOI: https://doi.org/10.1007/978-3-662-53045-0
 | 5 Radiation Mechanisms | 8 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%205.ipynb) | 0/8 (0%) |
 | 6 Celestial Mechanics | 7 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%206.ipynb) | 0/7 (0%) |
 | 7 The Solar System | 8 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%207.ipynb) | 0/8 (0%) |
-| 8 Objects of the Solar System | 5 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%208.ipynb) | 0/5 (0%) |
+| 8 Objects of the Solar System | 5 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%208.ipynb) | 1/5 (20%) |
 | 9 Stellar Spectra | 1 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%209.ipynb) | 0/1 (0%) |
 | 10 Binary Stars and Stellar Masses | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2010.ipynb) | 0/3 (0%) |
 | 11 Stellar Structure | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2011.ipynb) | 1/3 (33%) |
@@ -35,4 +35,4 @@ DOI: https://doi.org/10.1007/978-3-662-53045-0
 ---
 
 Problems (exercises) can be found at the end of each chapter, right after examples and just before the next chapter. <br>
-83 problems in total, 10 solved (12.0%).
+83 problems in total, 11 solved (13.3%).
