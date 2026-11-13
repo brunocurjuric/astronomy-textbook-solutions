@@ -19,7 +19,7 @@ DOI: https://doi.org/10.1007/978-3-662-53045-0
 | 8 Objects of the Solar System | 5 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%208.ipynb) | 1/5 (20%) |
 | 9 Stellar Spectra | 1 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%209.ipynb) | 0/1 (0%) |
 | 10 Binary Stars and Stellar Masses | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2010.ipynb) | 0/3 (0%) |
-| 11 Stellar Structure | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2011.ipynb) | 1/3 (33%) |
+| 11 Stellar Structure | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2011.ipynb) | 2/3 (67%) |
 | 12 Stellar Evolution | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2012.ipynb) | 1/3 (33%) |
 | 13 The Sun | 2 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2013.ipynb) | 2/2 (100%) |
 | 14 Variable Stars | 3 | [Notebook](Fundamental%20Astronomy%20-%20Chapter%2014.ipynb) | 0/3 (0%) |
@@ -35,4 +35,4 @@ DOI: https://doi.org/10.1007/978-3-662-53045-0
 ---
 
 Problems (exercises) can be found at the end of each chapter, right after examples and just before the next chapter. <br>
-83 problems in total, 11 solved (13.3%).
+83 problems in total, 12 solved (14.5%).
